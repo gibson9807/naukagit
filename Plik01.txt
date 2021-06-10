@@ -9,3 +9,4 @@ naprawa bledow hotfix-001
 Dodano asystenta pomocy
 Interfejs
 easierApp
+zmiana gitremote

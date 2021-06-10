@@ -8,4 +8,5 @@ easierApp
 
 
 zmiana cz2 1
+zmiana gitremote
 
