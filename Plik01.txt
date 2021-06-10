@@ -12,4 +12,5 @@ easierApp
 zmiana gitremote
 zmiana nowaGalaz
 zmiana sklonowane
+zmiana FetchPull
 
