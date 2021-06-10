@@ -11,3 +11,5 @@ Interfejs
 easierApp
 zmiana gitremote
 zmiana nowaGalaz
+zmiana sklonowane
+
