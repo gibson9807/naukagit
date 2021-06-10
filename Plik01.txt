@@ -10,3 +10,4 @@ Dodano asystenta pomocy
 Interfejs
 easierApp
 zmiana gitremote
+zmiana w LOcalBRanch
