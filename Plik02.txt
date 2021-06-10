@@ -1,1 +1,11 @@
 zmiana07a
+
+naprawa bledow hotfix-001
+
+Dodano asystenta pomocy
+Interfejs
+easierApp
+
+
+zmiana cz2 1
+

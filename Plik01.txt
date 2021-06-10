@@ -3,3 +3,9 @@ zmiana02 zmianav2
 zmiana03 - zmiana07c
 zmiana04
 zmiana05
+
+naprawa bledow hotfix-001
+
+Dodano asystenta pomocy
+Interfejs
+easierApp
