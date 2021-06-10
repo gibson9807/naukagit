@@ -13,4 +13,6 @@ zmiana gitremote
 zmiana nowaGalaz
 zmiana sklonowane
 zmiana FetchPull
+zmiana FetchPull2
+
 
